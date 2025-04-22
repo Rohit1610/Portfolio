@@ -14,8 +14,8 @@ const Projects: React.FC = (): JSX.Element => {
       relative"
       >
         <Card
-          title="Music Room"
-          description="A collaborative music queue web app where users can join rooms, add YouTube songs, vote on tracks, and enjoy a shared listening experience."
+          title="CodeSync"
+          description="A competitive programming tool that generates personalized Codeforces contests based on your rating, preferred problem tags, and difficulty levels — helping users practice more effectively."
           imgLink="\prj11.jpg"
           liveLink="https://vol1-hima31.vercel.app/"
           githubLink="https://github.com/himanshuhr8/vol1"
@@ -27,12 +27,12 @@ const Projects: React.FC = (): JSX.Element => {
           description="A sleek and responsive portfolio showcasing projects, skills, and contact information."
           imgLink="\prj1.jpg"
           liveLink="https://hima31.vercel.app/"
-          githubLink="https://www.github.com/himanshuhr8/portfolio"
+          githubLink="https://github.com/Rohit1610/Portfolio"
           icons={prj1}
         />
         <Card
-          title="Agentic Medical AI"
-          description="A multi-agent reasoning system for simulating OSCE-style medical diagnosis, with interactive doctor-patient conversations and diagnostic insights."
+          title="WorkWave"
+          description="A collaborative project management platform where assigners can delegate tasks to assignees, featuring Gantt charts, Kanban boards, and real-time task tracking."
           imgLink="\agentic_ai.jpg"
           liveLink="https://agenticmedicalai.streamlit.app/"
           githubLink="https://github.com/himanshuhr8/AgenticMedicalAi"
@@ -40,8 +40,8 @@ const Projects: React.FC = (): JSX.Element => {
         />
 
         <Card
-          title="Blogging Platform"
-          description="A blogging platform inspired by Medium, featuring a seamless user experience, authentication, and robust backend."
+          title="Campus-Cart"
+          description="A campus-focused marketplace where students can buy, sell, and manage products, built with a seamless UI and real-time updates for listings and orders."
           imgLink="\prj22.jpg"
           liveLink="https://medium-hima31.vercel.app/"
           githubLink="https://github.com/himanshuhr8/medium_clone"
@@ -64,10 +64,10 @@ const Projects: React.FC = (): JSX.Element => {
         />
 
         <Card
-          title="ParkEase App"
-          description="A parking management app with real-time spot details, Google Maps integration, and Firebase-powered features."
+          title="Real Time Chat App"
+          description="A real-time messaging app using React and Socket.io with live typing indicators and private chat rooms."
           imgLink="\prj4.jpg"
-          githubLink="https://github.com/himanshuhr8/ParkEasePlus"
+          githubLink="https://github.com/Rohit1610/Real-Time-Chat-App"
           icons={prj5}
         />
       </div>

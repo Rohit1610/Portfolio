@@ -7,7 +7,7 @@ This is a starter template for building modern web apps with **Vite**, **React**
 - ⚡ [Vite](https://vitejs.dev/)
 - ⚛️ [React](https://reactjs.org/)
 - 🧠 [TypeScript](https://www.typescriptlang.org/)
-- 🎨 [Tailwind CSS](https://tailwindcss.com/) *(optional if used)*
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) 
 
 ---
 
